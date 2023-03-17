@@ -26,7 +26,7 @@ Toir is an external script platform written in nodejs that supports custom user 
 
 <img align="top" src="https://img.shields.io/github/release-date/botkalista/ayaya-league-external" alt="Release Date"></img>
 
-1. Download prebuilt version of Toir <a href="https://github.com/botkalista/ayaya-league-external/releases"><b>HERE</b></a>
+1. Download prebuilt version of Toir <a href="https://github.com/baseu1t/Toir/releases"><b>HERE</b></a>
 
 2. Extract the folder content
 
@@ -34,7 +34,7 @@ Toir is an external script platform written in nodejs that supports custom user 
 
 ### From source code
 
-1. Clone the repo `git clone https://github.com/botkalista/ayaya-league-external.git`
+1. Clone the repo `git clone https://github.com/baseu1t/Toir.git`
 
 2. Install Node.js 32bit v16.10.0
 
