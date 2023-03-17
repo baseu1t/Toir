@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-<img src="https://imgur.com/LA5UDN6" alt="AyayaLeagueLogo" width="512">
+<img src="https://imgur.com/LA5UDN6" alt="AyayaLeagueLogo">
 
 
 <div align="middle">
